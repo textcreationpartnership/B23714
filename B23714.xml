@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from the tower, or, A True and perfect relation of the dreadful end of the Earl of Essex lately committed prisoner to the Tower, an account of the horrid phanatical plot against His Sacred Majesty, His Royal Highness and all lovers of monarchy, giving an account how he was found murthered in the tower about ten of the clock this instant Friday the thirteenth of July, 1683.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23714</idno><idno type="EEBO-CITATION">15735191</idno>
+  <idno type="VID">206196</idno>
+  <idno type="EEBO-PROQUEST">2240949368</idno>
+  
+            <idno type="STC">Wing G1738</idno>
+            <idno type="OCLC">15735191</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23714)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206196)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from the tower, or, A True and perfect relation of the dreadful end of the Earl of Essex lately committed prisoner to the Tower, an account of the horrid phanatical plot against His Sacred Majesty, His Royal Highness and all lovers of monarchy, giving an account how he was found murthered in the tower about ten of the clock this instant Friday the thirteenth of July, 1683.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Arthur Capel, --  Earl of, 1631-1683.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206196:1"/>
+            <head>
+               <hi>GREAT NEWS FROM THE TOWER. OR,</hi> A True and Perfect Relation of the Dreadful end of the Earl of <hi>Essex,</hi> lately committed Prisoner to the Tower, an account of the Horrid Phanatical Plot, against His Sacred Majesty, His Royal Highness, and all Lovers of Monarchy.</head>
+            <argument>
+               <p>Giving an Account how he was found Murthered in the Tower, about ten of the Clock this instant Friday, the thirteenth of <hi>July, 1683.</hi>
+               </p>
+            </argument>
+            <p>IT cannot be denied but that this Age has pro<g ref="char:EOLhyphen"/>duced as various transactions (and as stupen<g ref="char:EOLhyphen"/>dious too) as any heretofore, and therein has dis<g ref="char:EOLhyphen"/>cover'd and brought to light the unparalell'd De<g ref="char:EOLhyphen"/>signs, and execrable Intentions of the Adorers of <hi>Jack Presbyter,</hi> who (notwithstanding such unde<g ref="char:EOLhyphen"/>niable Testimonies of their Villanies) must needs assume to themselves the Names of <hi>True Protestants</hi> and <hi>Patriots,</hi> and under such Hypocritical Dis<g ref="char:EOLhyphen"/>guises contrive and imagine such Treasons, which as in past Ages they could never be paralell'd, (though these Saviours did their endeavours in the late times) so in all future they can never be
+<pb facs="tcp:206196:2"/>credited, they are so transcendently Inhumane and Flagitious.</p>
+            <p>These sly Contrivances did not a little insinuate into the <hi>Mobile,</hi> and some few other of their Crea<g ref="char:EOLhyphen"/>tures, but of late (thanks be to God) the Cur<g ref="char:EOLhyphen"/>tain is drawn aside, and every thing appears bare<g ref="char:EOLhyphen"/>fac'd, and in its natural hew, by which their hel<g ref="char:EOLhyphen"/>lish Designs were defeated and frustrated.</p>
+            <p>But to come to the matter design'd; my Lord having appeared very much dejected since his Sei<g ref="char:EOLhyphen"/>zure and Commitment, he delighted not in Com<g ref="char:EOLhyphen"/>pany, but no doubt spent his time in reflecting on his past Life, and the ill success that attended such Actions. This grew so fast upon him, that on Friday Morning about Ten of the Clock, his Ser<g ref="char:EOLhyphen"/>vant had not left him long in his Chamber, but he returned and found him dead, a great Wound having been given in his Throat which reached almost to each Ear; upon which all the Care ima<g ref="char:EOLhyphen"/>ginable was taken for his Recovery, but too late; information of which was immediately dispatched to His Majesty (who together with his Royal Highness was then viewing the Tower) and after<g ref="char:EOLhyphen"/>wards to the Court at the <hi>Old Bailey,</hi> which did not a little astonish all that heard of it, and may be an Example to all those that love their Private Interests before that of the Publick; that love only their King but as it is subservient to some Private Design, and that make it their business under the cloke of Religion to destroy Kings, and bring to utter Ruin the best of Governments.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>George Croom</hi> in <hi>Thames-street,</hi> over against <hi>Baynard's-Castle.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
